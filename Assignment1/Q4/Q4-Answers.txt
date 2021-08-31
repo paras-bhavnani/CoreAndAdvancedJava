@@ -1,0 +1,11 @@
+Whimsical Toys Inc (WTI) needs to record the names of all its employees. Every month, an employee will be chosen at random from these records to receive a free toy.
+Use a List. Choose a random employee by picking a number between 0 and size()-1.
+
+WTI has decided that each new product will be named after an employee — but only first names will be used, and each name will be used only once. Prepare a list of unique first names.
+Use a Set. Elements in Set are always unique.
+
+WTI decides that it only wants to use the most popular names for its toys. Count up the number of employees who have each first name.
+Use a Map, with key value pair of first names and count of the number of employees with that first name.
+
+WTI acquires season tickets for the local lacrosse team, to be shared by employees. Create a waiting list for this popular sport.
+Use a Queue. It is the perfect Collection for implementing a Queue(waiting list).
